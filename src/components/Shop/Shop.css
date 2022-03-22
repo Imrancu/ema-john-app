@@ -11,8 +11,6 @@
 
 .cart-container {
   background: #ffe0b3;
-  padding: 20px;
-  text-align: center;
 }
 
 @media screen and (max-width: 1040px) {
