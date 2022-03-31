@@ -12,6 +12,15 @@
 .cart-container {
   background: #ffe0b3;
 }
+.cart-container button{
+  background-color: #FF9900;
+  border: 0;
+  padding: 10px 30px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
 
 @media screen and (max-width: 1040px) {
   .products-container {

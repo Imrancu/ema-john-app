@@ -6,14 +6,19 @@
     width: 571px;
     display: flex;
 }
+.review-item:hover{
+    background-color: #FFE0B3;
+}
 .review-item img{
     width: 91px;
+    border-radius: 8px;
 }
 .orange-color{
     color: orange;
 }
 .review-item-details p{
     margin: 0;
+    padding-left: 8px;
 }
 .review-item-details-container{
     width: 100%;
