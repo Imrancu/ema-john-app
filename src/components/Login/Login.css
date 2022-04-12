@@ -1,11 +1,16 @@
 .form-container{
     margin: 0 auto;
-    width: 600px;
+    width: 500px;
     border: 1px solid #95A0A7;
     box-sizing: border-box;
     border-radius: 8px;
     display: flex;
     justify-content: center;
+    margin-top: 50px;
+    box-shadow: rgba(255, 153, 0, 0.3) 5px 5px 10px;
+}
+.form-container:hover{
+    box-shadow: rgba(255, 153, 0, 0.3) -5px -5px 10px;
 }
 .form-title{
     font-size: 35px;
@@ -21,21 +26,22 @@
     margin-bottom: 5px;
 }
 .input-group input{
-    width: 415px;
-    height: 55px;
+    width: 350px;
+    height: 40px;
     border: 1px solid #95A0A7;
     box-sizing: border-box;
     border-radius: 5px;
     font-size: 24px;
 }
 .form-submit{
-    width: 415px;
-    height: 55px;
+    width: 350px;
+    height: 40px;
     background-color: rgba(255, 153, 0, 0.3);
     border-radius: 5px;
     border: none;
     font-size: 24px;
     cursor: pointer;
+    margin-bottom: 40px;
 }
 .form-submit:hover{
     background-color: rgba(255, 153, 0, 0.5);
