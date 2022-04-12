@@ -15,9 +15,9 @@
 
 /**
  * Hosting Steps
- * 1.npm install -g firebase-tools
- * 2.firebase login
- * 3.firebase init
- * 4.npm run build
+ * 1.npm install -g firebase-tools (One time in my computer)
+ * 2.firebase login (one time login in my computer)
+ * 3.firebase init (each new project)
+ * 4.npm run build (every time If I want to deploy (Build your project))
  * 5.firebase deploy
  * **/

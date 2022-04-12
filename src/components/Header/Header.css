@@ -17,3 +17,9 @@
 .header a:hover {
   color: #ff9900;
 }
+.header .signOut-btn{
+  margin-left: 30px;
+  background-color: #ff9900;
+  color: white;
+  font-weight: 600;
+}
